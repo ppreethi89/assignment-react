@@ -43,3 +43,12 @@ TO RUN the project:
     npm install
     npm start
 
+SCREENGRABS:
+-------------
+![image](https://user-images.githubusercontent.com/33653648/117057326-4fbcd700-aceb-11eb-889f-2fae81495e96.png)
+
+![image](https://user-images.githubusercontent.com/33653648/117057390-62371080-aceb-11eb-9902-9489a054f1a7.png)
+
+![image](https://user-images.githubusercontent.com/33653648/117057436-6fec9600-aceb-11eb-8900-e9348b6e5750.png)
+
+
